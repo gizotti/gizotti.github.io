@@ -2,12 +2,14 @@ import React from "react"
 
 import BasePage from "../BasePage"
 import VideoCard from "../../components/VideoCard"
+import SEO from "../../components/SEO"
 
 import styles from "./MusicPage.module.css"
 
 const MusicPage = () => {
   return (
     <BasePage>
+      <SEO title="Music" />
       <div className={styles.grid}>
         <VideoCard
           title="Hironobu Kageyama - Hikari Sentai Maskman | Cover by Gizotti"

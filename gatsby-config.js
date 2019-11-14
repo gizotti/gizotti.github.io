@@ -5,5 +5,14 @@
  */
 
 module.exports = {
-  plugins: [`gatsby-plugin-postcss`, `gatsby-plugin-favicon`],
+  siteMetadata: {
+    title: `Gabriel Gizotti`,
+    description: `Just Gabe's stuff :)`,
+    author: `Gabriel Gizotti`,
+  },
+  plugins: [
+    `gatsby-plugin-postcss`,
+    `gatsby-plugin-favicon`,
+    `gatsby-plugin-react-helmet`,
+  ],
 }
