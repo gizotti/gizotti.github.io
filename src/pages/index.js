@@ -1,3 +1,5 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+import MusicPage from "./MusicPage"
+
+export default () => <MusicPage />
