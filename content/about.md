@@ -4,7 +4,7 @@ draft = false
 title = "Hi There!"
 +++
 
-I am Gabriel but you call me Gabe.
+I am Gabriel but you can call me Gabe.
 
 I am a Developer with over 10 years experience, the majority of it on web applications, Ruby, and Ruby on Rails.
 
