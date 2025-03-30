@@ -20,21 +20,10 @@ style = "github-dark"
   keywords = "blog,developer,personal"
   # avatarurl = "images/avatar.jpg"
   gravatar = "gabriel@gizotti.com"
-
-  faviconSVG = "/img/favicon.svg"
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
-
   since = 2025
-
   enableTwemoji = true
-
   colorScheme = "auto"
   hidecolorschemetoggle = true
-
-  # customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
